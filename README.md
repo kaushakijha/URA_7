@@ -1,12 +1,9 @@
-# URA_7
+# Doc2You - Modern Healthcare Management System
 
-# MediConnect - Modern Healthcare Management System
-
-![MediConnect Logo](path/to/logo.png) <!-- You can add your project logo here -->
 
 ## 🌟 Overview
 
-MediConnect is a cutting-edge healthcare management system designed to streamline medical services, enhance patient care, and improve healthcare administration. This repository contains the frontend implementation of the MediConnect platform, built with modern web technologies. The platform integrates AI-powered solutions, e-commerce capabilities, and specialized features for women's health tracking.
+Doc2You is a cutting-edge healthcare management system designed to streamline medical services, enhance patient care, and improve healthcare administration. This repository contains the frontend implementation of the Doc2You platform, built with modern web technologies. The platform integrates AI-powered solutions, e-commerce capabilities, and specialized features for women's health tracking.
 
 ## ✨ Features
 
@@ -126,7 +123,7 @@ VITE_ENV=development
 
 ## 🤝 Contributing
 
-We welcome contributions to MediConnect! Please follow these steps:
+We welcome contributions to Doc2You! Please follow these steps:
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
@@ -136,11 +133,11 @@ We welcome contributions to MediConnect! Please follow these steps:
 
 ## 🙏 Acknowledgments
 
-- Thanks to all contributors who have helped shape MediConnect
+- Thanks to all contributors who have helped shape Doc2You
 - Special thanks to [any specific acknowledgments]
 
 ---
 
 <div align="center">
-Made with ❤️ by the MediConnect Team
+Made with ❤️ by the Doc2You Team
 </div>
